@@ -1,5 +1,7 @@
 # Screen Saver Application
 
+<img width="1919" height="1079" alt="Screenshot 2026-02-18 160919" src="https://github.com/user-attachments/assets/89c21863-b66a-449b-96c3-ff605b689843" />
+
 ## Description
 A fullscreen screen saver application that displays:
 - **Analog Clock** with hour, minute, and second hands
