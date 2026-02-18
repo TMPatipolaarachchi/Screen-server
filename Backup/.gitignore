@@ -1,0 +1,60 @@
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore Laravel environment files
+.env
+.env.*
+
+# Ignore Laravel storage
+/storage/*.key
+/storage/*.log
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+
+# Ignore Laravel logs
+/storage/logs/*
+
+# Ignore node_modules
+/node_modules/
+
+# Ignore build artifacts
+/public/hot
+/public/storage
+/public/mix-manifest.json
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore PHPUnit result cache
+.phpunit.result.cache
+
+# Ignore deployment files
+*.zip
+*.tar.gz
+
+# Ignore other temporary files
+*.bak
+*.swp
+*.tmp
+*.log
+*.lock
+*.pid
+*.seed
+*.log.*
+
+# Ignore coverage reports
+coverage/
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore yarn debug logs
+yarn-debug.log*
+yarn-error.log*
